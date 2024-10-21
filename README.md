@@ -1,6 +1,6 @@
 # Smart House System
 
-This project aims to develop a smart house system using Verilog HDL. Through this project, we aim to help residents control their homes more conveniently. The project is managed by Uğur Camcı (20220701028), Didem Hamzapğlu (20220701040) and Sudem Hamzaoğlu(20220701059).
+This project aims to develop a smart house system using Verilog HDL. Through this project, we aim to help residents control their homes more conveniently. The project is managed by Uğur Camcı (20220701028), Didem Hamzaoğlu (20220701040) and Sudem Hamzaoğlu(20220701059).
 
 ## Implementations
 
