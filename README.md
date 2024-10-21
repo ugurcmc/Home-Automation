@@ -3,20 +3,20 @@ This project aims to develop a smart house system using Verilog HDL. Through thi
 
 Implementations
 The following systems will be implemented in our Smart Home Automation System:
+*Authorization System
+*General Management System
+*Lighting Control
+*White Goods Control
+*Curtain, Window, and Door Control
+*Climate Control System
+*AC Control
+*Heating Systems Control
+*Safety System
+*Fire Detection and Fire Extinguishing Systems
+*Burglar Detection Systems
+*Digital Door Locking
+*Authorization System
 
-Authorization System
-General Management System
-Lighting Control
-White Goods Control
-Curtain, Window, and Door Control
-Climate Control System
-AC Control
-Heating Systems Control
-Safety System
-Fire Detection and Fire Extinguishing Systems
-Burglar Detection Systems
-Digital Door Locking
-Authorization System
 This module aims to ensure that only authorized users can access the home automation system. Each user will have an ID and a password. Users can log in with these credentials to access the automation features.
 
 General Management System
